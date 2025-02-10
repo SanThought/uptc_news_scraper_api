@@ -1,4 +1,3 @@
-```markdown
 # UPTC News Scraper API
 
 Welcome to the UPTC News Scraper API project! This is a Django-based REST API that scrapes and serves news data. Our core focus is to build a simple, reliable backend that:
@@ -82,4 +81,3 @@ We’re excited to collaborate and learn together through pair programming!
 Ready to dive in? Let's build a solid foundation for the UPTC News Scraper API together!
 
 *Happy coding and collaboration!*
-```
